@@ -7,6 +7,6 @@ Normal temp regulation is blankets for keeping in body heat for the winter and R
 
 Wind doesn't really get to the crates so much while driving, it's passively cooling the inside at best, so when it's hot it's AC time. Because of how the crates fit the rear AC vents are just blowing against the outside of them and theoretically cool air will make in in the crate holes with positive air pressure, but this is an attempt at directly attaching those vents to each of the bottom crates at least so cold air can blow directly onto the dogs.
 
-Hose is [2 inch ID white TPR Rubber Crush-Resistant Flexible Duct Hose with Wear Strip from McMaster-Carr](https://www.mcmaster.com/catalog/132/282/5593K16) for this first attempt 
+Hose is [2 inch ID white TPR Rubber Crush-Resistant Flexible Duct Hose with Wear Strip from McMaster-Carr](https://www.mcmaster.com/catalog/132/282/5593K16) for this first attempt.
 
 Along with optional [1/2" Ezyclamp PA66 plastic worm drive hose clamps from HCL](https://hcl-clamping.com/collections/ezyclamp-plastic-worm-gear-clamps/products/special-worm-polymer-ezyclamp-plastic-worm-drive-hex-screw-hose-clamp-1-2-wide-black-polymer). Currently unsure if the clamps will be needed but figured better to use plastics rather than metal that could get hot when van was off or even cut stored gear.
