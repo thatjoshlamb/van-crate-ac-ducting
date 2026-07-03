@@ -2,7 +2,8 @@
 3D print files for connecting rear AC vents of the van to Ruffland dog crates.
 
 The back of our main vehicle when traveling with our dogs is a Ford Transit Connect XLT passanger van with about 100 Ruffland car crates stacked and strapped together. See stock photo.
-<img width="748" height="584" alt="2020-ford-transit_connect_xlt_rear_gate" src="https://github.com/user-attachments/assets/d4807425-deb4-4bf2-8818-99f2910e5053" />
+<img width="448" height="350" alt="2020-ford-transit_connect_xlt_rear_gate" src="https://github.com/user-attachments/assets/d4807425-deb4-4bf2-8818-99f2910e5053" />
+
 (Not pictured: clown-car-esque crate stack with loud dogs excited about GOING AND DOING)
 
 Normal temp regulation is blankets for keeping in body heat for the winter and Ryobi fans and the reflective "spaceship blanket" on the outside of open doors/windows while parked. Keeps everything pretty comfortable for them in the summar. However, believe it not, pretty much all law enforcement would agree that *driving* with van covered in said spaceship blanket is very frowned upon.
