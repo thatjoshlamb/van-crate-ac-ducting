@@ -1,0 +1,23 @@
+Making Hold Covers that Clip In
+
+The crates have quite a few holes for venting. It's not actually beneficial to plug them, forcing the AC to go through one side so it only escape through the front door or the opposite side's vent holes. This is because when the car is off with the spaceship cover the Ryobi fans push air in through the front door and it needs to go out any available vent holes. Plus, in case of AC failure, it'd be best to have the vent holes existing then plugging them and stopping any passive air flow from happening.
+
+The *actual point* of making a hole cover is just to test a connection method of the vent hose to the crates. Start simple, make sure it works, then make it complicated.
+
+And I have already found why early testing is important.
+
+First version of the hold plug, mainly just for testing sizing. I started with the 24mm holes that are in our medium kennels. x3 clips seemed like a good amount.
+[x3clip-cover-24mm.png] (I haven't figured out how to embed these pictures like with the README file)
+
+As I kinda expected, it immediately broke with the layer lines giving a nice shear point for bending the clips. That's fine, measurements tested good.
+
+Next test was getting the clips to extend *along* the layer lines. I made two halves of the cover with a thin, two-layer (0.40mm) piece of plastic connecting them. It could be gently bended along this and the seam glued to keep it stable. Bonus that it meant all the supports were on the backsides of the clips that didn't interact with the edges of the holes, so clean-up wasn't as important.
+[half-cover-bent-x2clips.png]
+It ended up not really being all that important to do the half-bended trick. I could have just as easily oriented the regular full cover sideways with 2 or 3 clips and the supports would handle keeping them in place.
+But this test was more about seeing if thinner 1mm clips with layer lines in the less-offending direction would bend just enough to allow insertion.
+[half-cover-bent-1mmclips-test.jpeg]
+Well, it was a good test. Clips would bend with some encouragement but it wasn't an elastic bend, they just deformed. So, on to the next idea.
+
+Clips that don't bend at all, just fit inside the hold without deflection, but then has a rotating plate on the other side to lock the two sides together.
+[insert picture of model]
+Right now I'm keeping it as a cover for simplicity of modeling it for testing, but made the locking ring with the appropriate hole inside as it will end up as.
