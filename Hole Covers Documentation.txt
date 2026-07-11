@@ -19,5 +19,6 @@ But this test was more about seeing if thinner 1mm clips with layer lines in the
 Well, it was a good test. Clips would bend with some encouragement but it wasn't an elastic bend, they just deformed. So, on to the next idea.
 
 Clips that don't bend at all, just fit inside the hold without deflection, but then has a rotating plate on the other side to lock the two sides together.
-[insert picture of model]
+[cover-lockring-24mm_v2]
 Right now I'm keeping it as a cover for simplicity of modeling it for testing, but made the locking ring with the appropriate hole inside as it will end up as.
+After a couple tries, this ended up working well. Moving on to a connecting plate that will attach hose to crate.
