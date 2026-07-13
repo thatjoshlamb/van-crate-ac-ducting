@@ -2,5 +2,14 @@ Crate to Hose Connector
 
 To start with I'm just going to make and test a large rounded rectangle slab with a hole in the center that I can connect to the crate. Bonus points if I can get my idea of putting a thin rubber window-seal type thing in a groove idea working. I don't think an airtight seal is important here but allowing the plate to crate connection be "softer" with some rubber might prevent shaking noise. It may also make it easier to secure, providing some give so the lockring can pull it a little tighter than what the rubber would normally allow relaxed - that way any vibration won't let the ring shake around to its unlocked side and eventual pop off. Maybe??
 
-[insert_crate-connector-test-24mm]
+[crate-connector_v1]
 Started with the 24mm hole as always. I'm suspecting I might need to incorporate multiple holes for this. The hose is a 2 inch diameter which means the plate can reasonably cover 2-3 holes easily. It seems a waste to just cover them and not make the airduct direct air through both/all of them. Maybe the plate doesn't really need to be rectangular at all? Just a waste? Make it square to just circumvent the hose? I might test both. It might ultimately depend on whether I can make the air reliably go through multiple holes rather than just creating turbulance and slowing down at the plastic between the holes, reducing the airflow into the crate.
+
+I made the connecting plate as big as the hose connecting part needed to be, which I decided was 70mm diameter currently. I'm likely going to trim this down once I confirm connections work and see what will and won't cover the other vent holes.
+
+The sleeve part the hose can twist into is transparent in this picture. There's two clips to capture the twisting hose wire (not sure what this is called, it's what gives the hose its structure and "ribs"). One on the outer most edge and one in the center. The bottoms of each of these are champfered with 40 degree angles off of vertical so enable printing them without supports....
+which *would* matter if I was to pring this thing vertical in the picture, but because of the connector plate this whole thing would need to be on its side. [sigh]
+
+Actually, I realized after typing this that I was planning on having the hose come out the top of the connector, so the hose can go up to the ceiling and around stored gear. I just started modeling the hose sleeve like this straight on for simplicity's sake in the beginning while fitment tests are still in order. So, ultimately that sleeve *will* need overhangs modeled to allow printing without supports. Not wasted time, yay!
+
+I modeled the sleeve before printing the connector plate for testing since I knew the end size of the plate would depend on the sleeve. Now that's completed, though, I'm going to print these pieces separately so I can orient them in the most agreeable way, do the fitment tests, and *then* I'll work on making that turn from coming out horizontal from the box to vertical. And all the consideration of supports that will come with that.
