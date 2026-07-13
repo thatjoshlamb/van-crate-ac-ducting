@@ -15,4 +15,5 @@ Hose is [2 inch ID white TPR Rubber Crush-Resistant Flexible Duct Hose with Wear
 <img width="222" height="144" alt="flexible_duct_hose" src="https://github.com/user-attachments/assets/f1ef9ee4-de7c-4bba-9f8f-247cf86a524e" />
 
 Along with optional [1/2" Ezyclamp PA66 plastic worm drive hose clamps from HCL](https://hcl-clamping.com/collections/ezyclamp-plastic-worm-gear-clamps/products/special-worm-polymer-ezyclamp-plastic-worm-drive-hex-screw-hose-clamp-1-2-wide-black-polymer). Currently unsure if the clamps will be needed but figured better to use plastics rather than metal that could get hot when van was off or even cut stored gear.
+
 <img width="366" height="342" alt="Ezyclamp_plastic_worm_gear_clamp" src="https://github.com/user-attachments/assets/1f8faeb5-54c3-42d2-b370-541e485321a0" />
